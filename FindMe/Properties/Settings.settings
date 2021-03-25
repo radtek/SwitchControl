@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SwitchControl.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ZabbixSrvIP" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">10.10.10.7</Value>
+    </Setting>
+    <Setting Name="ZabbixDBLogin" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">monty</Value>
+    </Setting>
+    <Setting Name="ZabbixDBPass" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Ph@ra0</Value>
+    </Setting>
+    <Setting Name="ZabbixDBHostGroup" Type="System.Int64" Scope="Application">
+      <Value Profile="(Default)">17</Value>
+    </Setting>
+    <Setting Name="MACOctetSeparator" Type="System.Char" Scope="Application">
+      <Value Profile="(Default)">-</Value>
+    </Setting>
+    <Setting Name="Comunity" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">public</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
